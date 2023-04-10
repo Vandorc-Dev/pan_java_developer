@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Vando Rocha\Desktop\CURSOS EM ANDAMENTO\JAVA_PAN\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2031230705.index
+1851373909.index

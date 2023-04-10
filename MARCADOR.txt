@@ -1,0 +1,5 @@
+Data: 09/04/2023
+
+	Próximo conteúdo: Aprendendo a Sintaxe Java -> Tipos e variáveis > Tipos e variáveis - 1
+
+	Obs: Estudar organização de pacotes em Jav. Estudar sobre Java Beans
